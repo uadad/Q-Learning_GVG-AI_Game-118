@@ -1,0 +1,11 @@
+2,5 --> muro
+
+99,999 --> aviones
+
+88 --> fantasma
+
+333 --> para pasar puente
+
+4 --> nube
+
+1 --> fuego
